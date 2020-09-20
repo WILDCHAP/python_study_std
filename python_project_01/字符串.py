@@ -13,3 +13,7 @@ c = b.split("he", 1)    # 分割成两个
 print(c)
 
 print(s.replace("string", "python"))
+
+for c1 in c:
+    print(c1.center(10))
+    print(c1.strip())
