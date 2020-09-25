@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/../python_Project_03/.idea/python_Project_03.iml" filepath="$PROJECT_DIR$/../python_Project_03/.idea/python_Project_03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_Project_04_private/.idea/python_Project_04_private.iml" filepath="$PROJECT_DIR$/../python_Project_04_private/.idea/python_Project_04_private.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../python_Project_05_extends/.idea/python_Project_05_extends.iml" filepath="$PROJECT_DIR$/../python_Project_05_extends/.idea/python_Project_05_extends.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/python_project_02_sys01.iml" filepath="$PROJECT_DIR$/.idea/python_project_02_sys01.iml" />
     </modules>
   </component>
